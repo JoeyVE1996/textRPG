@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TextRPG
+namespace RPGObjects
 {
     public class NPC
     {
-        public NPC()
+        public NPC(string name, string[] dialouge)
         {
-
+            this.Name = name;
+            this.Dialouge = dialouge;
         }
 
         private string name;

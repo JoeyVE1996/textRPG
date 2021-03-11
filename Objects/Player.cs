@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TextRPG
+namespace RPGObjects
 {
     public class Player {
         public Player(string name)
@@ -18,8 +18,8 @@ namespace TextRPG
             set { name = value; }
         }
 
-        private Item[] inventory;
-        public Item[] Inventory
+        private List<Item> inventory;
+        public List<Item> Inventory
         {
             get { return inventory; }
             set { inventory = value; }

@@ -1,0 +1,12 @@
+C:\Users\joeyv\Desktop\School\github\TextRPG\Objects\bin\Debug\net5.0\Objects.deps.json
+C:\Users\joeyv\Desktop\School\github\TextRPG\Objects\bin\Debug\net5.0\Objects.dll
+C:\Users\joeyv\Desktop\School\github\TextRPG\Objects\bin\Debug\net5.0\ref\Objects.dll
+C:\Users\joeyv\Desktop\School\github\TextRPG\Objects\bin\Debug\net5.0\Objects.pdb
+C:\Users\joeyv\Desktop\School\github\TextRPG\Objects\obj\Debug\net5.0\Objects.csprojAssemblyReference.cache
+C:\Users\joeyv\Desktop\School\github\TextRPG\Objects\obj\Debug\net5.0\Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeyv\Desktop\School\github\TextRPG\Objects\obj\Debug\net5.0\Objects.AssemblyInfoInputs.cache
+C:\Users\joeyv\Desktop\School\github\TextRPG\Objects\obj\Debug\net5.0\Objects.AssemblyInfo.cs
+C:\Users\joeyv\Desktop\School\github\TextRPG\Objects\obj\Debug\net5.0\Objects.csproj.CoreCompileInputs.cache
+C:\Users\joeyv\Desktop\School\github\TextRPG\Objects\obj\Debug\net5.0\Objects.dll
+C:\Users\joeyv\Desktop\School\github\TextRPG\Objects\obj\Debug\net5.0\ref\Objects.dll
+C:\Users\joeyv\Desktop\School\github\TextRPG\Objects\obj\Debug\net5.0\Objects.pdb
